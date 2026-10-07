@@ -1,0 +1,6 @@
+{
+  "name": "Context Architect - RAG vs Long Context vs Agentic RAG",
+  "description": "Enterprise decision framework and benchmark system evaluating when Standard RAG, Long Context LLMs, and Agentic RAG are most effective for real-world enterprise use cases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
